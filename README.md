@@ -16,3 +16,11 @@ python train.py
 
 After the excution, ROC plots will be generated as shown in the plots folts.
 
+### CNA(logistic) ROC
+<img src="plots/CV_ComplexNetwork_Logistic_ROC.jpg" alt="CNA(logistic) ROC" width="500"/>
+
+### ViT(NN) ROC
+<img src="plots/CV_ViT_Neural_Network_ROC.jpg" alt="ViT(NN) ROC" width="500"/>
+
+### Federated model CNA(KNN)-ViT(NN)
+<img src="plots/CV_Federated_KNN+NN_ROC.jpg" alt="Federated model CNA(KNN)-ViT(NN)" width="500"/>
