@@ -14,7 +14,7 @@ To train the CNA(logistic), ViT(NN), and Federated model CNA(KNN)-ViT(NN) as int
 python train.py
 ```
 
-After the excution, ROC plots will be generated as shown in the plots folts.
+After the excution, ROC plots will be generated as shown in the plots folder.
 
 ### CNA(logistic) ROC
 <img src="plots/CV_ComplexNetwork_Logistic_ROC.jpg" alt="CNA(logistic) ROC" width="500"/>
