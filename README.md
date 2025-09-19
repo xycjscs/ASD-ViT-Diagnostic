@@ -24,3 +24,7 @@ After the excution, ROC plots will be generated as shown in the plots folder.
 
 ### Federated model CNA(KNN)-ViT(NN)
 <img src="plots/CV_Federated_KNN+NN_ROC.jpg" alt="Federated model CNA(KNN)-ViT(NN)" width="500"/>
+
+If it is helpful to you, please cite this article.
+
+Gao, X., & Xu, Y. (2025). Vision transformer and complex network analysis for autism spectrum disorder classification in T1 structural MRI. Japanese Journal of Radiology, 1-15.
